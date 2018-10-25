@@ -1,0 +1,24 @@
+print: It displays of what statement or underscore command in the terminal
+# (Octothorp): It lets the programmer type a comment that does not interfere with the code itself
++ (Addition): Symbol used to add numbers and hardcoded variables
+- (Subtraction): Symbol used to subtract numbers and hardcoded variables
+* (Multiplication): Symbol used to multiply numbers and hardcoded variables
+/ (Division): Symbol used to divide numbers and hardcoded variables
+= (Equals): Symbol used to assign numbers and hardcoded variables
+f (Formatting): Formating String Literals
+\n (New Line): Creating a new line
+{} (Parameter): A variable that lets the print statement print out the variable result
+""/'' (Single and double quotation marks): It lets the print statement print out word for word as a sentence
+format: Used to insert a variable into "{}"
+, (Comma): It adds a new variable into the print statement
+\t (New Tab): Creates an added tab for each line.
+input: Asking for the input when it executes in the terminal
+from: Inserts a system in the python library
+import: To insert a header of the python library
+open: Open a file that exists
+< (Less Than): Determines if one of two statements are less than each other and will execute depending on the option. 
+> (Greater than): Determines if one of two statements are greater than each other and will execute depending on the option.
+false: Identifies if the statement is false, it will determinine if it will execute or not.
+true: Identifies if the statement is true, it will determinine if it will execute or not.
+(): Identifies a class in Python
+_ (Underscore): A symbol that acts as a space for designed variables
