@@ -1,0 +1,14 @@
+1. Python functions are blocks of organized and reusable code that is used to perform a single, related action.
+
+Functions provide standardized units for reusing code
+
+There are built in functions like print() which prints variables and quoted statements.
+
+Then def(), which defines any input parameters or arguments that should be placed within the parentheses
+
+The code block within every function starts with a colon (:) and is indented
+
+2. Usually, the variables get assigned a value when the integer variables are being declared.
+
+
+A flowchart is a diagram of the sequence of movements or actions of people or things involved in a complex system or activity.
